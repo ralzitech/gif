@@ -1,1 +1,1 @@
-Please check the file size before the upload.
+Please check the file size before upload.
